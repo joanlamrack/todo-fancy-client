@@ -1,0 +1,33 @@
+.signIn img {
+	display: block;
+	margin: auto auto;
+	width: 100%;
+	height: auto;
+}
+
+.signIn .switch{
+	background-color: none !important;
+	border: none !important;
+}
+
+.signIn button{
+	width:100%;
+	background-color: #8660aa;
+	border: none;
+}
+
+.signIn h2 {
+	text-align: center;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.signIn {
+	border: solid 1px #8660aa;
+	box-shadow: 0 0 40px #8660aa;
+	padding: 5%;
+	display: block;
+	margin: auto auto;
+	text-align: center;
+	color: #8660aa;
+	border-radius: 10px;
+}
